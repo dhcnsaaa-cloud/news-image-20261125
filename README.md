@@ -1,6 +1,10 @@
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/dhcnsaaa-cloud/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/dhcnsaaa-cloud/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
 # The World on One Page — Wednesday 25 November 2026
 
-Entry for the make.fun competition `news-image-20261125`: one broadsheet
+Entry for the [make.fun](https://make.fun/bounty/news-image-20261125) competition `news-image-20261125`: one broadsheet
 front page carrying 24 stories from a single day, numbered 1–24 and pinned
 on a world map, with a DATE CHECK box that names seven real stories left out
 on purpose because they belong to other days.
